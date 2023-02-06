@@ -1,0 +1,57 @@
+.wrapper{
+    padding: 1%;
+    text-align: center;
+    
+}
+
+
+.clear{
+    float: none;
+    clear: both;
+}
+div.form-element {
+    margin: 20px 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.float-text a{
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(109, 9, 51);
+}
+.float-text a:hover{
+    color:rgb(14, 111, 150) ;
+    border:3px solid rgb(109, 9, 51);
+    border-radius: 7px;
+   
+}
+.img-responsive{
+    width: 100%;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+.img-curve{
+    border-radius: 15px;
+}
+.main{
+    text-align: center;
+    background-color: rgb(211, 211, 230);
+    padding: 3% 0;
+}
+.box4{
+    text-align: center;
+    width: 19%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    border-radius: 12px;
+    
+}

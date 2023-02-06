@@ -1,0 +1,35 @@
+.main {
+  display: flex;
+  margin: auto;
+  background-color: rgb(90, 139, 196);
+  width: 40%;
+  justify-content: center;
+  border-radius: 20px;
+  height:700px;
+}
+/*rgb(161, 9, 80);*/
+.wrapper h2{
+    text-align: center;
+    color:white;
+    padding: 20px;
+}
+form .remove{
+    margin:5px;
+    padding: 3px 8px;
+    background-color: rgb(212, 168, 45);
+    border: 2px solid rgb(212, 168, 45);
+    border-radius: 12px;
+    font-weight: bold;
+}
+ .order{
+    margin:5px;
+    padding: 3px 8px;
+    background-color: rgb(212, 168, 45);
+    border: 2px solid rgb(212, 168, 45);
+    border-radius: 12px;
+    font-weight: bold;
+}
+input[type="text"]{
+    padding:28px 30%;
+    border-radius: 4px;
+}

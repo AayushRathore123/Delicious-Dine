@@ -1,0 +1,45 @@
+
+
+
+
+/*.....Main*/
+.float-text a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(97, 72, 121);
+}
+.float-text a:hover{
+    color:rgb(123, 87, 156) ;
+}
+.img-responsive{
+    width: 100%;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+.main{
+    text-align: center;
+    background-color: rgb(211, 211, 230);
+    padding: 3% 0;
+}
+.login {
+    width: 40%;
+    text-align: center;
+    background-color: white;
+    margin: 5% auto;
+    padding: 2%;
+    float: left;
+}
+/*.login1{
+    border: 1px solid violet;
+    width: 30%;
+    margin: 5% auto;
+}*/
+.img-curve{
+    border-radius: 15px;
+}
+
+
+/*....footer*/
